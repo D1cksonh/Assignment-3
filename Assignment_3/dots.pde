@@ -43,4 +43,8 @@ void dotColor() { // this function controls the color of the dots when button's 
    greenX = 0;
    blueX = 0;
  }
+ 
+ println(redX);
+ println(greenX);
+ println(blueX);
 }
