@@ -9,7 +9,7 @@ void setup() {
 
 void draw() {
   dotSquare();
+  dotColor();
   dotCircle();
   erase();
-  dotColor();
 }

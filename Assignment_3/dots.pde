@@ -38,7 +38,7 @@ void dotColor() { // this function controls the color of the dots when button's 
  if(keyPressed && key == '3'){
    blueX = 255; 
  }
- if(keyPressed && key == '4' && redX == 255 || greenX == 255 || blueX == 255){
+ if(keyPressed && key == '4'){
    redX = 0;
    greenX = 0;
    blueX = 0;
